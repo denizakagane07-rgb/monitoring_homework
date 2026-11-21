@@ -1,4 +1,4 @@
-# 1 Перечислите алерты, которые настроены в Prometheus alerts.
+# Перечислите алерты, которые настроены в Prometheus alerts.
 
 ## containers
 
